@@ -1,25 +1,40 @@
 [
   {
     "route": "/",
-    "firstLoadUncompressedJsBytes": 479904,
+    "firstLoadUncompressedJsBytes": 489607,
     "firstLoadChunkPaths": [
       ".next\\static\\chunks\\3fntmmi971322.js",
-      ".next\\static\\chunks\\0zqx6mx63jz38.js",
-      ".next\\static\\chunks\\12aruqaur5huj.js",
-      ".next\\static\\chunks\\3q5hirtwweuqh.js",
+      ".next\\static\\chunks\\44cmi-041n0s-.js",
+      ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
       ".next\\static\\chunks\\1k__zuwipnzw8.js",
-      ".next\\static\\chunks\\turbopack-3iogz215ymtkm.js"
+      ".next\\static\\chunks\\2-rtuqsgzmno4.js",
+      ".next\\static\\chunks\\turbopack-1m49kynki2svq.js"
+    ]
+  },
+  {
+    "route": "/termekek/[slug]",
+    "firstLoadUncompressedJsBytes": 462136,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\3fntmmi971322.js",
+      ".next\\static\\chunks\\0axdrs6tow-4n.js",
+      ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\1k__zuwipnzw8.js",
+      ".next\\static\\chunks\\2-rtuqsgzmno4.js",
+      ".next\\static\\chunks\\turbopack-1m49kynki2svq.js"
     ]
   },
   {
     "route": "/_not-found",
-    "firstLoadUncompressedJsBytes": 453121,
+    "firstLoadUncompressedJsBytes": 453268,
     "firstLoadChunkPaths": [
       ".next\\static\\chunks\\3fntmmi971322.js",
-      ".next\\static\\chunks\\12aruqaur5huj.js",
-      ".next\\static\\chunks\\3q5hirtwweuqh.js",
+      ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
       ".next\\static\\chunks\\1k__zuwipnzw8.js",
-      ".next\\static\\chunks\\turbopack-3iogz215ymtkm.js"
+      ".next\\static\\chunks\\2-rtuqsgzmno4.js",
+      ".next\\static\\chunks\\turbopack-1m49kynki2svq.js"
     ]
   }
 ]
