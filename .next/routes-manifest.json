@@ -55,6 +55,12 @@
       "regex": "^/kosar(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/kosar(?:/)?$"
+    },
+    {
+      "page": "/penztar",
+      "regex": "^/penztar(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/penztar(?:/)?$"
     }
   ],
   "dataRoutes": [],

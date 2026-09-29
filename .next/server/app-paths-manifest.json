@@ -3,5 +3,6 @@
   "/_not-found/page": "app/_not-found/page.js",
   "/kosar/page": "app/kosar/page.js",
   "/page": "app/page.js",
+  "/penztar/page": "app/penztar/page.js",
   "/termekek/[slug]/page": "app/termekek/[slug]/page.js"
 }

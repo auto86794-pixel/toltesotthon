@@ -45,6 +45,20 @@
       }
     }
   },
+  "/penztar": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
   "/termekek/[slug]": {
     "hints": 64,
     "slots": {
