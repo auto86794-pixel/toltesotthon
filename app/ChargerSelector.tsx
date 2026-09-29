@@ -67,6 +67,12 @@ export default function ChargerSelector() {
     return { recommended, effective, hours };
   }, [selected, usage]);
 
+  function showProducts() {
+    if (!recommendation) return;
+    window.dispatchEvent(new CustomEvent('charger-filter', { detail: recommendation.recommended }));
+    requestAnimationFrame(() => document.getElementById('termekek')?.scrollIntoView({ behavior: 'smooth', block: 'start' }));
+  }
+
   function submit() {
     if (!brand || !model) return;
     setShowResult(true);
@@ -108,7 +114,7 @@ export default function ChargerSelector() {
         {usage === 'solar' && <p className="usageHint">Napelemes használathoz olyan okos töltőt érdemes választani, amely támogatja a PV-többlet követését és a dinamikus teljesítményszabályozást.</p>}
         {usage === 'business' && <p className="usageHint">Üzleti használatnál az RFID, fogyasztásmérés és terhelésmegosztás is fontos szempont lehet.</p>}
       </div>
-      <a className="btn resultBtn" href="#tolto">Töltők megtekintése →</a>
+      <button className="btn resultBtn" onClick={showProducts}>Töltők megtekintése →</button>
     </div>}
   </>;
 }
