@@ -1,10 +1,23 @@
 [
   {
     "route": "/",
-    "firstLoadUncompressedJsBytes": 489607,
+    "firstLoadUncompressedJsBytes": 491378,
     "firstLoadChunkPaths": [
-      ".next\\static\\chunks\\3fntmmi971322.js",
-      ".next\\static\\chunks\\44cmi-041n0s-.js",
+      ".next\\static\\chunks\\16htecrcuakgv.js",
+      ".next\\static\\chunks\\3oca3um4otxy0.js",
+      ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
+      ".next\\static\\chunks\\19mx3mg6lkumu.js",
+      ".next\\static\\chunks\\1k__zuwipnzw8.js",
+      ".next\\static\\chunks\\2-rtuqsgzmno4.js",
+      ".next\\static\\chunks\\turbopack-1m49kynki2svq.js"
+    ]
+  },
+  {
+    "route": "/kosar",
+    "firstLoadUncompressedJsBytes": 470657,
+    "firstLoadChunkPaths": [
+      ".next\\static\\chunks\\16htecrcuakgv.js",
+      ".next\\static\\chunks\\29p_lk9w3vx54.js",
       ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
       ".next\\static\\chunks\\19mx3mg6lkumu.js",
       ".next\\static\\chunks\\1k__zuwipnzw8.js",
@@ -14,10 +27,10 @@
   },
   {
     "route": "/termekek/[slug]",
-    "firstLoadUncompressedJsBytes": 462136,
+    "firstLoadUncompressedJsBytes": 467498,
     "firstLoadChunkPaths": [
-      ".next\\static\\chunks\\3fntmmi971322.js",
-      ".next\\static\\chunks\\0axdrs6tow-4n.js",
+      ".next\\static\\chunks\\16htecrcuakgv.js",
+      ".next\\static\\chunks\\3cb6fgf_3xzau.js",
       ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
       ".next\\static\\chunks\\19mx3mg6lkumu.js",
       ".next\\static\\chunks\\1k__zuwipnzw8.js",
@@ -27,9 +40,9 @@
   },
   {
     "route": "/_not-found",
-    "firstLoadUncompressedJsBytes": 453268,
+    "firstLoadUncompressedJsBytes": 456590,
     "firstLoadChunkPaths": [
-      ".next\\static\\chunks\\3fntmmi971322.js",
+      ".next\\static\\chunks\\16htecrcuakgv.js",
       ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
       ".next\\static\\chunks\\19mx3mg6lkumu.js",
       ".next\\static\\chunks\\1k__zuwipnzw8.js",
